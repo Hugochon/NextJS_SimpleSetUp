@@ -14,6 +14,7 @@ And finally run the following command :
 ```
 npm run dev
 ```
+(at this point, if you have the error "next is not defined", you should install the next package, using the command ```npm install next```)
 
 You should see a localhost address in your terminal that you can open to see your website.
 
