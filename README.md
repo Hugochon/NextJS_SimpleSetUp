@@ -6,8 +6,11 @@ First, clone this repo on your machine.
 ```
 git clone https://github.com/Hugochon/NextJS_SimpleSetUp/ 
 ```
-
-Then, open your terminal and type :
+You should then move into this new folder, using : 
+```
+cd NextJS_SimpleSetUp
+```
+And finally run the following command :
 ```
 npm run dev
 ```
